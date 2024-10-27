@@ -1,0 +1,44 @@
+# NBA Game Day
+
+Welcome to the NBA Game Day web application! This project provides an exciting way to keep track of NBA games, featuring team highlights and upcoming matchups.
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Display of featured NBA teams with their logos and colors.
+- Upcoming game schedule presented in a table format.
+- Engaging quote to capture the essence of the NBA.
+
+## Installation
+
+To get started, clone the repository and open the `index.html` file in your web browser.
+
+```bash
+git clone <repository-url>
+cd <repository-folder>
+open index.html
+
+<table>
+    <thead>
+        <tr>
+            <th>Matchup</th>
+            <th>Date</th>
+            <th>Time</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Lakers vs. Bulls</td>
+            <td>Oct 15, 2024</td>
+            <td>7:00 PM</td>
+        </tr>
+        <!-- Additional rows -->
+    </tbody>
+</table>
